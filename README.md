@@ -1,7 +1,5 @@
 <h2 align="left">Olá 👋! Meu nome é Luiz e eu sou um desenvolvedor Back-end!</h2>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizP2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" width="180" />
 
 </div>
 <div align="left">
