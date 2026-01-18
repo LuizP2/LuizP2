@@ -1,4 +1,5 @@
-<h2 align="left">Olá 👋! Meu nome é Luiz e eu sou um desenvolvedor Back-end!</h2>
+<h2 align="left">Hello, im'a back end software engineer! <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="60">
+</h2>
 <img src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" width="180" />
 
 </div>
@@ -11,7 +12,7 @@
   </a>
 </div>
 
-<h2 align="left"> Essas são minhas hard skills: </h2>
+<h2 align="left"> Those are my hard skills: </h2>
 
 <img align="right" height="150" src="https://gifdb.com/images/high/android-robot-update-maintenance-46bdzwbktck5vp31.gif"  />
 
@@ -30,6 +31,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="300">
+<br><br>
 
 <br clear="both">
 
@@ -38,4 +41,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuizP2/LuizP2/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuizP2/LuizP2/output/github-contribution-grid-snake.svg">
 </picture>
+
 
