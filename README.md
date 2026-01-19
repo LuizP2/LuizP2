@@ -1,4 +1,4 @@
-<h2 align="left">Hello, im'a back end software engineer! <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="60">
+<h2 align="left">Hello, im'a back-end software engineer! <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="60">
 </h2>
 <img src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" width="180" />
 
