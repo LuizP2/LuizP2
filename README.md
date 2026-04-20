@@ -16,7 +16,7 @@
 
 <img align="right" height="150" src="https://gifdb.com/images/high/android-robot-update-maintenance-46bdzwbktck5vp31.gif"  />
 
-<div>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
