@@ -57,7 +57,6 @@
   <tr>
     <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60"/></td>
   </tr>
 </table>
 
